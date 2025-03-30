@@ -1,6 +1,5 @@
 # **Automating Webpack's Benchmarking with CI-Based Performance Tracking**
 
----
 
 ## **Table of Contents**  
 1. [Synopsis](#synopsis)  
@@ -129,22 +128,22 @@ if (newBuildTime > baselineTime * 1.2) {
 ## **Schedule**  
 I will dedicate **15-20 hours per week** to this project. **50%** of the time will be spent coding, and **50%** on testing, documentation, and discussions.
 
-### **Community Bonding (May 20 - June 17)**  
+### **Community Bonding (May 8 - June 1)**  
 - Understand Webpack’s benchmarking needs.
 - Research best practices for CI-based performance tracking.
 - Discuss implementation details with mentors.
 
-### **Phase 1: Benchmarking Infrastructure (June 17 - July 15)**  
+### **Phase 1: Benchmarking Infrastructure (June 2 - July 14)**  
 - Develop scripts to measure Webpack’s build time, bundle size, and memory usage.
 - Establish baseline performance values.
 - Test locally and refine.
 
-### **Phase 2: CI Integration (July 15 - August 5)**  
+### **Phase 2: CI Integration (July 15 - August 25)**  
 - Integrate benchmark execution into **GitHub Actions**.
 - Compare results against baselines.
 - Ensure reliable pass/fail conditions.
 
-### **Phase 3: Regression Alerts & Finalization (August 5 - August 26)**  
+### **Phase 3: Regression Alerts & Finalization (August 25 - September 1)**  
 - Implement **performance alerts** in PRs.
 - Create a performance dashboard (optional stretch goal).
 - Final testing, documentation, and deployment.
@@ -167,7 +166,10 @@ By the end of this project, Webpack will have:
 ---
 
 ## **Why Me?**  
-I have experience with **Node.js, GitHub Actions, and CI/CD automation**. I am passionate about optimizing build tools and have previously worked on CI-based automation projects. My skills align well with Webpack’s needs, and I am eager to contribute to its long-term stability and performance.
+I have experience with **Node.js, CLI-Tools, GitHub Actions, and CI/CD automation**. I am passionate about optimizing build tools and have previously worked on CI-based automation projects. My skills align well with Webpack’s needs, and I am eager to contribute to its long-term stability and performance.
+
+- experience in ci automation: [ci PR to djangoproject.com](https://github.com/django/djangoproject.com/pull/1855)
+- my AI-based CLI Tool: [dwarf-cli](https://github.com/SrisailamKakurala/dwarf-cli)
 
 ---
 
